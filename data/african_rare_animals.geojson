@@ -1,0 +1,1188 @@
+{
+  "type": "FeatureCollection",
+  "name": "African_Rare_Animals",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "common_name": "Mountain Gorilla",
+        "species": "Gorilla beringei beringei",
+        "iucn_status": "CR",
+        "habitat_score": 28,
+        "country": "Uganda",
+        "pop_est": 1063,
+        "threat": "Habitat loss, poaching",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.58,
+          -0.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "common_name": "Black Rhino",
+        "species": "Diceros bicornis",
+        "iucn_status": "CR",
+        "habitat_score": 22,
+        "country": "Kenya",
+        "pop_est": 6195,
+        "threat": "Poaching, habitat loss",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9,
+          -0.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "common_name": "Ethiopian Wolf",
+        "species": "Canis simensis",
+        "iucn_status": "CR",
+        "habitat_score": 31,
+        "country": "Ethiopia",
+        "pop_est": 500,
+        "threat": "Rabies, habitat fragmentation",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6,
+          9.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "common_name": "Riverine Rabbit",
+        "species": "Bunolagus monticularis",
+        "iucn_status": "CR",
+        "habitat_score": 18,
+        "country": "South Africa",
+        "pop_est": 250,
+        "threat": "Agriculture, trapping",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.85,
+          -31.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "common_name": "Pygmy Hippo",
+        "species": "Choeropsis liberiensis",
+        "iucn_status": "CR",
+        "habitat_score": 24,
+        "country": "Liberia",
+        "pop_est": 2500,
+        "threat": "Deforestation, hunting",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.43,
+          6.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "common_name": "Hirola",
+        "species": "Beatragus hunteri",
+        "iucn_status": "CR",
+        "habitat_score": 20,
+        "country": "Kenya",
+        "pop_est": 500,
+        "threat": "Drought, predation, habitat loss",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.85,
+          1.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "common_name": "Addax",
+        "species": "Addax nasomaculatus",
+        "iucn_status": "CR",
+        "habitat_score": 15,
+        "country": "Niger",
+        "pop_est": 100,
+        "threat": "Poaching, oil exploration",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          19.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "common_name": "Saharan Cheetah",
+        "species": "Acinonyx jubatus hecki",
+        "iucn_status": "CR",
+        "habitat_score": 17,
+        "country": "Algeria",
+        "pop_est": 250,
+        "threat": "Low prey, climate change",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          23.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 9,
+        "common_name": "White-backed Vulture",
+        "species": "Gyps africanus",
+        "iucn_status": "CR",
+        "habitat_score": 21,
+        "country": "Tanzania",
+        "pop_est": 97000,
+        "threat": "Poisoning, power lines",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.89,
+          -6.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 10,
+        "common_name": "Hawksbill Sea Turtle",
+        "species": "Eretmochelys imbricata",
+        "iucn_status": "CR",
+        "habitat_score": 26,
+        "country": "Mozambique",
+        "pop_est": 8000,
+        "threat": "Fishing bycatch, habitat loss",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.52,
+          -17.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 11,
+        "common_name": "African Wild Dog",
+        "species": "Lycaon pictus",
+        "iucn_status": "EN",
+        "habitat_score": 38,
+        "country": "Zimbabwe",
+        "pop_est": 6600,
+        "threat": "Habitat fragmentation, disease",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15,
+          -19.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 12,
+        "common_name": "Grevy's Zebra",
+        "species": "Equus grevyi",
+        "iucn_status": "EN",
+        "habitat_score": 42,
+        "country": "Kenya",
+        "pop_est": 2680,
+        "threat": "Water competition, poaching",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0,
+          1.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 13,
+        "common_name": "African Penguin",
+        "species": "Spheniscus demersus",
+        "iucn_status": "EN",
+        "habitat_score": 35,
+        "country": "South Africa",
+        "pop_est": 50000,
+        "threat": "Overfishing, oil spills",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -34.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 14,
+        "common_name": "Drill",
+        "species": "Mandrillus leucophaeus",
+        "iucn_status": "EN",
+        "habitat_score": 33,
+        "country": "Cameroon",
+        "pop_est": 3000,
+        "threat": "Hunting, deforestation",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.45,
+          4.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 15,
+        "common_name": "Chimpanzee",
+        "species": "Pan troglodytes",
+        "iucn_status": "EN",
+        "habitat_score": 40,
+        "country": "DRC",
+        "pop_est": 170000,
+        "threat": "Deforestation, bushmeat",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3,
+          -4.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 16,
+        "common_name": "Bonobo",
+        "species": "Pan paniscus",
+        "iucn_status": "EN",
+        "habitat_score": 37,
+        "country": "DRC",
+        "pop_est": 15000,
+        "threat": "Hunting, habitat loss",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65,
+          -2.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 17,
+        "common_name": "Giant Pangolin",
+        "species": "Smutsia gigantea",
+        "iucn_status": "EN",
+        "habitat_score": 30,
+        "country": "Ghana",
+        "pop_est": 5000,
+        "threat": "Poaching, bushmeat trade",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.02,
+          7.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 18,
+        "common_name": "African Manatee",
+        "species": "Trichechus senegalensis",
+        "iucn_status": "EN",
+        "habitat_score": 36,
+        "country": "Senegal",
+        "pop_est": 10000,
+        "threat": "Hunting, fishing nets",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.48,
+          14.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 19,
+        "common_name": "Somali Wild Ass",
+        "species": "Equus africanus somaliensis",
+        "iucn_status": "EN",
+        "habitat_score": 19,
+        "country": "Eritrea",
+        "pop_est": 570,
+        "threat": "Habitat degradation, hunting",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.78,
+          15.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 20,
+        "common_name": "Rothschild's Giraffe",
+        "species": "Giraffa camelopardalis rothschildi",
+        "iucn_status": "EN",
+        "habitat_score": 44,
+        "country": "Uganda",
+        "pop_est": 2650,
+        "threat": "Habitat loss, poaching",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.97,
+          2.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 21,
+        "common_name": "African Wild Ass",
+        "species": "Equus africanus",
+        "iucn_status": "EN",
+        "habitat_score": 23,
+        "country": "Ethiopia",
+        "pop_est": 570,
+        "threat": "Hybridization, drought",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.49,
+          11.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 22,
+        "common_name": "Hooded Vulture",
+        "species": "Necrosyrtes monachus",
+        "iucn_status": "CR",
+        "habitat_score": 27,
+        "country": "Nigeria",
+        "pop_est": 197000,
+        "threat": "Poisoning, trapping",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68,
+          9.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 23,
+        "common_name": "African Elephant (Savanna)",
+        "species": "Loxodonta africana",
+        "iucn_status": "VU",
+        "habitat_score": 55,
+        "country": "Botswana",
+        "pop_est": 415000,
+        "threat": "Poaching, habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68,
+          -22.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 24,
+        "common_name": "African Elephant (Forest)",
+        "species": "Loxodonta cyclotis",
+        "iucn_status": "CR",
+        "habitat_score": 32,
+        "country": "Gabon",
+        "pop_est": 100000,
+        "threat": "Poaching, logging",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.61,
+          -0.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 25,
+        "common_name": "Cheetah",
+        "species": "Acinonyx jubatus",
+        "iucn_status": "VU",
+        "habitat_score": 52,
+        "country": "Namibia",
+        "pop_est": 7100,
+        "threat": "Human conflict, habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.49,
+          -22.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 26,
+        "common_name": "Hippopotamus",
+        "species": "Hippopotamus amphibius",
+        "iucn_status": "VU",
+        "habitat_score": 58,
+        "country": "Zambia",
+        "pop_est": 115000,
+        "threat": "Hunting, habitat degradation",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.45,
+          -13.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 27,
+        "common_name": "Lion",
+        "species": "Panthera leo",
+        "iucn_status": "VU",
+        "habitat_score": 60,
+        "country": "Tanzania",
+        "pop_est": 20000,
+        "threat": "Human conflict, prey depletion",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.74,
+          -6.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 28,
+        "common_name": "Leopard",
+        "species": "Panthera pardus",
+        "iucn_status": "VU",
+        "habitat_score": 61,
+        "country": "South Africa",
+        "pop_est": 250000,
+        "threat": "Trophy hunting, retaliatory killing",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0,
+          -25.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 29,
+        "common_name": "African Buffalo",
+        "species": "Syncerus caffer",
+        "iucn_status": "NT",
+        "habitat_score": 70,
+        "country": "Kenya",
+        "pop_est": 400000,
+        "threat": "Disease, habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8,
+          -2.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 30,
+        "common_name": "Mandrill",
+        "species": "Mandrillus sphinx",
+        "iucn_status": "VU",
+        "habitat_score": 53,
+        "country": "Gabon",
+        "pop_est": 4000,
+        "threat": "Hunting, deforestation",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          -0.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 31,
+        "common_name": "White Rhino",
+        "species": "Ceratotherium simum",
+        "iucn_status": "NT",
+        "habitat_score": 65,
+        "country": "South Africa",
+        "pop_est": 19000,
+        "threat": "Poaching",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.42,
+          -28.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 32,
+        "common_name": "African Wild Cat",
+        "species": "Felis lybica",
+        "iucn_status": "LC",
+        "habitat_score": 78,
+        "country": "Morocco",
+        "pop_est": 200000,
+        "threat": "Hybridization",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 33,
+        "common_name": "Aardvark",
+        "species": "Orycteropus afer",
+        "iucn_status": "LC",
+        "habitat_score": 75,
+        "country": "Sudan",
+        "pop_est": 500000,
+        "threat": "Habitat degradation",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0,
+          12.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 34,
+        "common_name": "Okapi",
+        "species": "Okapia johnstoni",
+        "iucn_status": "EN",
+        "habitat_score": 34,
+        "country": "DRC",
+        "pop_est": 10000,
+        "threat": "Deforestation, poaching",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.8,
+          1.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 35,
+        "common_name": "Gorilla (Western)",
+        "species": "Gorilla gorilla",
+        "iucn_status": "CR",
+        "habitat_score": 29,
+        "country": "Republic of Congo",
+        "pop_est": 100000,
+        "threat": "Ebola, poaching",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.83,
+          -0.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 36,
+        "common_name": "Serval",
+        "species": "Leptailurus serval",
+        "iucn_status": "LC",
+        "habitat_score": 80,
+        "country": "South Africa",
+        "pop_est": 300000,
+        "threat": "Habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.93,
+          -26.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 37,
+        "common_name": "African Golden Cat",
+        "species": "Caracal aurata",
+        "iucn_status": "VU",
+        "habitat_score": 49,
+        "country": "Cameroon",
+        "pop_est": 10000,
+        "threat": "Deforestation, bushmeat",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          4.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 38,
+        "common_name": "Caracal",
+        "species": "Caracal caracal",
+        "iucn_status": "LC",
+        "habitat_score": 77,
+        "country": "Namibia",
+        "pop_est": 700000,
+        "threat": "Livestock predation control",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.08,
+          -22.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 39,
+        "common_name": "African Civet",
+        "species": "Civettictis civetta",
+        "iucn_status": "LC",
+        "habitat_score": 79,
+        "country": "Zimbabwe",
+        "pop_est": 1000000,
+        "threat": "Hunting for musk",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          -20.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 40,
+        "common_name": "Bongo",
+        "species": "Tragelaphus eurycerus",
+        "iucn_status": "NT",
+        "habitat_score": 66,
+        "country": "Kenya",
+        "pop_est": 28000,
+        "threat": "Habitat loss, hunting",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8,
+          0.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 41,
+        "common_name": "Gerenuk",
+        "species": "Litocranius walleri",
+        "iucn_status": "NT",
+        "habitat_score": 63,
+        "country": "Ethiopia",
+        "pop_est": 95000,
+        "threat": "Overgrazing, hunting",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.89,
+          6.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 42,
+        "common_name": "Dibatag",
+        "species": "Ammodorcas clarkei",
+        "iucn_status": "VU",
+        "habitat_score": 47,
+        "country": "Somalia",
+        "pop_est": 2500,
+        "threat": "Drought, hunting",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.33,
+          7.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 43,
+        "common_name": "Roan Antelope",
+        "species": "Hippotragus equinus",
+        "iucn_status": "LC",
+        "habitat_score": 72,
+        "country": "Zambia",
+        "pop_est": 76000,
+        "threat": "Hunting, habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.85,
+          -15.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 44,
+        "common_name": "Sable Antelope",
+        "species": "Hippotragus niger",
+        "iucn_status": "LC",
+        "habitat_score": 71,
+        "country": "Angola",
+        "pop_est": 75000,
+        "threat": "Poaching, habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24,
+          -11.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 45,
+        "common_name": "Giant Sable Antelope",
+        "species": "Hippotragus niger variani",
+        "iucn_status": "CR",
+        "habitat_score": 16,
+        "country": "Angola",
+        "pop_est": 200,
+        "threat": "Poaching, civil war aftermath",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0,
+          -9.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 46,
+        "common_name": "African Wild Dog (NW)",
+        "species": "Lycaon pictus",
+        "iucn_status": "EN",
+        "habitat_score": 39,
+        "country": "Senegal",
+        "pop_est": 300,
+        "threat": "Snares, road mortality",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.45,
+          14.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 47,
+        "common_name": "Painted Hunting Dog",
+        "species": "Lycaon pictus",
+        "iucn_status": "EN",
+        "habitat_score": 41,
+        "country": "Mozambique",
+        "pop_est": 1400,
+        "threat": "Habitat fragmentation",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21,
+          -18.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 48,
+        "common_name": "Spotted Hyena",
+        "species": "Crocuta crocuta",
+        "iucn_status": "LC",
+        "habitat_score": 76,
+        "country": "Tanzania",
+        "pop_est": 27000,
+        "threat": "Human conflict",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77,
+          -7.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 49,
+        "common_name": "African Wild Ass (NE)",
+        "species": "Equus africanus",
+        "iucn_status": "CR",
+        "habitat_score": 14,
+        "country": "Djibouti",
+        "pop_est": 200,
+        "threat": "Drought, hunting",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.15,
+          11.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 50,
+        "common_name": "Lammergeier",
+        "species": "Gypaetus barbatus",
+        "iucn_status": "NT",
+        "habitat_score": 64,
+        "country": "Ethiopia",
+        "pop_est": 10000,
+        "threat": "Poisoning, disturbance",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          9.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 51,
+        "common_name": "Pangolin (Ground)",
+        "species": "Smutsia temminckii",
+        "iucn_status": "VU",
+        "habitat_score": 51,
+        "country": "South Africa",
+        "pop_est": 100000,
+        "threat": "Illegal wildlife trade",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5,
+          -24.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 52,
+        "common_name": "African Linsang",
+        "species": "Poiana richardsonii",
+        "iucn_status": "LC",
+        "habitat_score": 74,
+        "country": "Cameroon",
+        "pop_est": 50000,
+        "threat": "Deforestation",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.52,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 53,
+        "common_name": "Aardwolf",
+        "species": "Proteles cristata",
+        "iucn_status": "LC",
+        "habitat_score": 73,
+        "country": "Kenya",
+        "pop_est": 80000,
+        "threat": "Pest control poisoning",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82,
+          -1.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 54,
+        "common_name": "Fennec Fox",
+        "species": "Vulpes zerda",
+        "iucn_status": "LC",
+        "habitat_score": 81,
+        "country": "Tunisia",
+        "pop_est": 250000,
+        "threat": "Pet trade, habitat loss",
+        "crisis_zone": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56,
+          33.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 55,
+        "common_name": "Dama Gazelle",
+        "species": "Nanger dama",
+        "iucn_status": "CR",
+        "habitat_score": 12,
+        "country": "Mali",
+        "pop_est": 500,
+        "threat": "Poaching, drought",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0,
+          18.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 56,
+        "common_name": "Scimitar Oryx",
+        "species": "Oryx dammah",
+        "iucn_status": "CR",
+        "habitat_score": 10,
+        "country": "Chad",
+        "pop_est": 800,
+        "threat": "Poaching, habitat loss",
+        "crisis_zone": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0,
+          15.0
+        ]
+      }
+    }
+  ]
+}
